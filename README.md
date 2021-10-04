@@ -15,3 +15,10 @@ Express is a minimal and flexible Node.js web application framework that provide
 - Install dependencies using below command npm install
 - Create database and connection
 - npm start
+
+# Screenshots of postman:
+- Add a user
+![image](https://user-images.githubusercontent.com/60312215/135852813-ae64b12f-ad4e-4160-b62e-ace1b923222c.png)
+
+- Add event for a user
+![image](https://user-images.githubusercontent.com/60312215/135852918-8a8745be-a799-4048-bf91-d8b4f7a07915.png)
